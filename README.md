@@ -9,6 +9,7 @@ The Financial Fraud Detection Model utilizes Machine Learning (ML) and Data Anal
 Dataset link- https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset/data
 
 deploy on render= https://financialfrauddetector.onrender.com/predict
+
 Key Features:
 
 Data Acquisition & Preprocessing
